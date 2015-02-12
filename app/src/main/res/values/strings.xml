@@ -9,11 +9,22 @@
     <string name="EscolaridadText">Escolaridad</string>
     <string name="LibroText">Libro Favorito</string>
     <string name="GeneroText">Genero</string>
+    <string name="deporteText">Practica Deporte</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">femenino</string>
+    <string name="save">save data</string>
     <string-array name="escolaridades">
         <item>Bachillerato</item>
         <item>Tecnico</item>
         <item>Licenciatura</item>
         <item>Maestria</item>
         <item>Doctorado</item>
+    </string-array>
+    <string-array name="libros">
+        <item>El arte de la guerra</item>
+        <item>8 habits of successful people</item>
+        <item>El Alquimista</item>
+        <item>La divina comedia</item>
+        <item>Ensayo sobre la ceguera</item>
     </string-array>
 </resources>
