@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sesion04</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="NameHint">Ingrese su nombre</string>
+    <string name="PhoneHint">Ingrese su telefono</string>
+    <string name="EscolaridadText">Escolaridad</string>
+    <string name="LibroText">Libro Favorito</string>
+    <string name="GeneroText">Genero</string>
+    <string-array name="escolaridades">
+        <item>Bachillerato</item>
+        <item>Tecnico</item>
+        <item>Licenciatura</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+    </string-array>
+</resources>
